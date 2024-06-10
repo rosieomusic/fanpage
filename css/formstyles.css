@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+
+}
+ul{
+    background-color: rgba(255, 255, 0, 0.795);
+
+    padding: 20px;
+    list-style: none;
+    text-align: center;
+}
+li{
+    font-size: 24px;
+
+    padding: 5px;
+    width: 110px;
+    display: inline;
+}
+h1{
+    color:antiquewhite;
+    text-align: center;
+}
+p{
+    color: antiquewhite;
+    text-align: center;
+}
+form{
+    background-color: lightpink;
+}
